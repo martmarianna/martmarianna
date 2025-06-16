@@ -1,4 +1,4 @@
-## Hello! I am Marianna, but you can call me Mart! 👋
+## Hello! I am Marianna, but you can call me Mari! 👋
 - 🔭 I’m currently intershiping on Data and Report at TIMBrasil.
 - - 🌱 I’m improving in Python for Data Analysis and Programming.
     
